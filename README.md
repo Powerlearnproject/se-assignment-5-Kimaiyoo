@@ -218,7 +218,7 @@ References:
 
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
 
-    a) Initialize a Local Git Repository:
+a) Initialize a Local Git Repository:
 
 - Open your project folder in VS Code.
 - If it's not already a Git repository, click the "Initialize Repository" button in the Source Control view.
